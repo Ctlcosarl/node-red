@@ -24,6 +24,9 @@ packages/node_modules/@node-red/editor-client/public
 !test/**/node_modules
 docs
 !packages/node_modules/**/docs
-.vscode
 .nyc_output
 sync.ffs_db
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
